@@ -1,3 +1,5 @@
+# Classe usada para obter os dados de treino do modelo
+
 from cvzone.HandTrackingModule import HandDetector
 import cv2
 import numpy as np

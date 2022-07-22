@@ -1,3 +1,5 @@
+# Classe usada para realizar o teste do modelo
+
 from cvzone.HandTrackingModule import HandDetector
 from cvzone.ClassificationModule import Classifier
 import cv2
